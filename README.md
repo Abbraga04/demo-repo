@@ -6,3 +6,6 @@ Why doesn't this work
 
 This should work 
 
+## Local development
+
+1. Open index.html in your browser
